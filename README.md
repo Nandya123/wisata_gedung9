@@ -1,16 +1,6 @@
 # wisata_gedung9
 
-A new Flutter project.
+<img width="245" alt="Tampilan awal" src="https://user-images.githubusercontent.com/116884688/211464831-85f1a11a-85f1-47af-987c-c2e2d26f2a98.png">
 
-## Getting Started
+<img width="253" alt="Gedong songo" src="https://user-images.githubusercontent.com/116884688/211464861-69ad5b6a-0abf-4907-9c80-dc15c2c383ec.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
